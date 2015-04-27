@@ -9,6 +9,9 @@ class crymimi3{
 			System.out.println(i);
 		}
 		System.out.println("ggmod");
+		System.out.prinfln("Robert");
+		System.out.prinfln("asdfghjkl");
+		System.out.prinfln("qwertyuiop");
 
 	}
 }
